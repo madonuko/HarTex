@@ -1,0 +1,16 @@
+# directories
+.idea
+
+# Python virtual environment
+venv
+
+# built binaries (local host), optional
+_binaries
+
+# target directories
+**/target
+target
+
+# .lock files
+**/Cargo.lock
+Cargo.lock
