@@ -71,8 +71,6 @@
         "ja": "特定のロールについて…",
         "zh-TW": "關於特定身分組的資訊。"
       },
-      "description_localizations": {
-      },
       "options": [
         {
           "name": "role",
